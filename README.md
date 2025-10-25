@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Vinuga530
-- 👀 I’m interested in app,web devolopment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me vkisath2@gmail.com
+# Hi, I'm Vinuga Kisath 👋
 
-<!---
-Vinuga530/Vinuga530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Cybersecurity Student and Web Developer** from Rathnapura, Sri Lanka.  
+I’m passionate about learning, building, and sharing projects in tech, ethical hacking, and web development.
+
+## Skills
+- Cybersecurity basics & ethical hacking  
+- Python, JavaScript, HTML/CSS  
+- Linux & networking fundamentals  
+
+## Projects
+- **Cybersecurity-Scripts:** Python scripts for learning security  
+- **Web-Dev-Projects:** Mini web apps & HTML/CSS projects  
+- **Portfolio:** Personal portfolio site
+
+## Connect
+- [About.me](https://about.me/vinugakisath)  
+- [LinkedIn](https://linkedin.com/in/vinugakisath)
+
+> I’m constantly learning and contributing. Let’s connect! 🌐

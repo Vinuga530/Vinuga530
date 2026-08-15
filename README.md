@@ -14,7 +14,7 @@ I’m passionate about learning, building, and sharing projects in tech, ethical
 - **Portfolio:** Personal portfolio site
 
 ## Connect
-- [About.me](https://about.me/vinugakisath)  
+- [My Site](https://vinugakisath.site)  
 - [LinkedIn](https://linkedin.com/in/vinugakisath)
 
 > I’m constantly learning and contributing. Let’s connect! 🌐

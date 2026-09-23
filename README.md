@@ -1,20 +1,40 @@
-# Hi, I'm Vinuga Kisath 👋
+# Vinuga Kisath 👋
 
-I’m a **Cybersecurity Student and Web Developer** from Rathnapura, Sri Lanka.  
-I’m passionate about learning, building, and sharing projects in tech, ethical hacking, and web development.
+**Cybersecurity Student · Security Enthusiast · Builder**
 
-## Skills
-- Cybersecurity basics & ethical hacking  
-- Python, JavaScript, HTML/CSS  
-- Linux & networking fundamentals  
+I'm **Vinuga Kisath**, a cybersecurity student from **Sri Lanka** interested in **network security, ethical hacking, Linux, penetration testing, and security tooling**.
 
-## Projects
-- **Cybersecurity-Scripts:** Python scripts for learning security  
-- **Web-Dev-Projects:** Mini web apps & HTML/CSS projects  
-- **Portfolio:** Personal portfolio site
+I’m mainly focused on understanding how systems work — and more importantly, **how they can be broken, secured, and improved**.
 
-## Connect
-- [My Site](https://vinugakisath.site)  
-- [LinkedIn](https://linkedin.com/in/vinugakisath)
+I build small tools, experiment with security labs, work with networks, and document what I learn along the way.
 
-> I’m constantly learning and contributing. Let’s connect! 🌐
+### ⚡ Current Focus
+
+* 🔐 Cybersecurity & ethical hacking
+* 🌐 Network security & networking
+* 🐧 Linux, command-line tools & security environments
+* 🐍 Python for automation and security scripting
+* 🧪 Security labs, CTFs & hands-on experimentation
+* 🔎 Learning how real-world systems are designed and defended
+
+### 🛠️ Tools & Technologies
+
+**Security:** Linux · Kali Linux · Networking · Wireshark · Nmap
+**Languages:** Python · JavaScript · PHP · HTML · CSS
+**Development:** Git · GitHub · Astro · Laravel
+**Infrastructure:** TCP/IP · DNS · HTTP · Firewalls · Servers
+
+### 🚧 Things I'm Building
+
+Most of my repositories are experiments, learning projects, security scripts, and web projects — basically things I built because I wanted to understand how they work.
+
+> Learn it. Break it. Understand it. Build it better.
+
+### 🌐 Elsewhere
+
+* **Website:** [vinugakisath.site](https://vinugakisath.site)
+* **LinkedIn:** [linkedin.com/in/vinugakisath](https://linkedin.com/in/vinugakisath)
+
+---
+
+**Cybersecurity student from Sri Lanka | Ethical Hacking | Network Security | Linux | Python | Web Technologies**

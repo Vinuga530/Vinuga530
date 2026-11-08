@@ -26,8 +26,6 @@ I'm interested in understanding the technology behind modern infrastructure — 
 
 I enjoy experimenting, building small projects, exploring security environments, and documenting what I learn.
 
-My approach is simple:
-
 > Don't just learn how technology works. Understand why it works, where it breaks, and how to make it better.
 
 ## 02 / CURRENT FOCUS
@@ -55,7 +53,7 @@ My approach is simple:
 ![Linux](https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=FCC624)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-181818?style=flat-square&logo=kalilinux&logoColor=557C94)
 ![Wireshark](https://img.shields.io/badge/Wireshark-181818?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-181818?style=flat-square&logo=gnu-bash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-181818?style=flat-square&logo=gnubash&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-181818?style=flat-square&logo=cisco&logoColor=049FD9)
 ![Fortinet](https://img.shields.io/badge/Fortinet-181818?style=flat-square&logo=fortinet&logoColor=EE3124)
 
@@ -75,33 +73,25 @@ Most of my repositories are a combination of experiments, learning projects, aut
 
 I prefer practical learning over simply collecting tutorials.
 
-Some areas I'm exploring:
-
-- Security and networking utilities
-- Python automation tools
-- Linux customization and terminal environments
-- Personal web projects
-- Infrastructure and deployment experiments
-
 Explore my repositories → [github.com/Vinuga530](https://github.com/Vinuga530)
 
-## 05 / GITHUB ACTIVITY
+## 05 / GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinuga530&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+<img src="https://github-stats-extended.vercel.app/api?username=Vinuga530&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="180" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Vinuga530&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vinuga530&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="180" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinuga530&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=Vinuga530&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
 
 </div>
 
-## 06 / CONTRIBUTION GRAPH
+## 06 / CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinuga530&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/Vinuga530/Vinuga530/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
